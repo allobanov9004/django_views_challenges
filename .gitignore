@@ -109,3 +109,5 @@ venv.bak/
 .idea
 
 .envrc
+
+django_venv/
